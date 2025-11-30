@@ -1,3 +1,15 @@
+COMPANY. CODTECH IT SOLUTIONS
+
+NAME: SANJAY KUMAR SAINI
+
+INTERN ID : CT04DR1297
+
+DOMAIN : MACHINE LEARNING
+
+DURATION: 4 WEEKS
+
+MENTOR : NEELA SANTOSH
+
 # Image Classification using CNN (CIFAR-10)
 
 This project implements a Convolutional Neural Network (CNN) to classify images from the CIFAR-10 dataset. It includes data loading, preprocessing, model building, training, and evaluation.
